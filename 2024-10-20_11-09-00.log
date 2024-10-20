@@ -1,0 +1,14 @@
+2024-10-20 11:09:00,517	***	Command:
+	main.py --mode sender
+
+2024-10-20 11:09:00,517	***	Settings:
+2024-10-20 11:09:00,517	***		host         : localhost
+2024-10-20 11:09:00,517	***		log_level    : INFO
+2024-10-20 11:09:00,517	***		max_messages : None
+2024-10-20 11:09:00,518	***		mode         : sender
+2024-10-20 11:09:00,518	***		port         : 8100
+2024-10-20 11:09:00,518	***		semantic     : at_most_once
+2024-10-20 11:09:00,518	***		timeout      : None
+2024-10-20 11:09:00,518	***	
+2024-10-20 11:09:00,518	***	Sender Mode Initialized
+2024-10-20 11:09:13,792	***	Sent message (at most once): 'sair' to ('localhost', 8100)

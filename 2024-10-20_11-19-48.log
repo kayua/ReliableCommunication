@@ -1,0 +1,17 @@
+2024-10-20 11:19:48,518	***	Command:
+	main.py --mode sender
+
+2024-10-20 11:19:48,519	***	Settings:
+2024-10-20 11:19:48,519	***		host         : localhost
+2024-10-20 11:19:48,519	***		log_level    : INFO
+2024-10-20 11:19:48,519	***		max_messages : None
+2024-10-20 11:19:48,519	***		mode         : sender
+2024-10-20 11:19:48,519	***		port         : 8100
+2024-10-20 11:19:48,519	***		semantic     : at_most_once
+2024-10-20 11:19:48,519	***		timeout      : None
+2024-10-20 11:19:48,519	***	
+2024-10-20 11:19:48,519	***	Sender Mode Initialized
+2024-10-20 11:20:00,484	***	Sent message (at most once): 'ping' to ('localhost', 8100)
+2024-10-20 11:20:04,466	***	Exiting the message sending loop.
+
+2024-10-20 11:20:04,467	***	Socket closed successfully.
